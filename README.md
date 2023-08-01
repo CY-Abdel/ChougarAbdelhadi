@@ -2,6 +2,7 @@
 <h3 align="center">A passionate frontend developer from France</h3>
 
 <br />
+
 - 🌱 I’m currently learning **React & Next**
 
  <!-- - 👨‍💻 All of my projects are available at [https://www.madisonkramer.fr/](https://www.madisonkramer.fr/) -->
