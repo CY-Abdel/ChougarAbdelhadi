@@ -1,5 +1,6 @@
 Hi 👋, I'm Abdelhadi
-A passionate frontend developer from France
+
+                                              A passionate frontend developer from France
 
 - 🔭 I’m currently working on React & JS
 - 🌱 I’m currently learning React & Next
