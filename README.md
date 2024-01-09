@@ -31,7 +31,7 @@
  <!-- LANGAGE -->
    <a href="https://java.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/> </a> 
     <a href="https://learn.microsoft.com/fr-fr/dotnet/csharp/" target="_blank" rel="noreferrer"> <img src="https://assets-global.website-files.com/6047a9e35e5dc54ac86ddd90/63065002cd563e1cd1cead28_eaadfe64.png" alt="c#" width="40" height="40"/> </a> 
-    <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://simpleicons.org/icons/python.svg" alt="python" width="40" height="40"/> </a> 
+    <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" width="40" height="40"/> </a> 
   <!-- FRAMEWORKS FRONTEND -->
    <a href="https://angular.io/docs" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-plain-wordmark.svg" alt="angular" width="40" height="40"/> </a> 
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
