@@ -40,6 +40,9 @@
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://icon-library.com/images/node-js-icon/node-js-icon-8.jpg" alt="nodejs" width="40" height="40"/> </a> 
   <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" alt="Spring" width="40" height="40"/> </a>
    <a href="https://learn.microsoft.com/fr-fr/dotnet/core/introduction" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/1200px-.NET_Core_Logo.svg.png" alt=".netcore" width="40" height="40"/> </a>
-    <a href="https://symfony.com/" target="_blank" rel="noreferrer"> <img src="https://symfony.com/logos/symfony_white_03.png" alt="symfony" width="40" height="40"/> </a> 
+    <a href="https://symfony.com/" target="_blank" rel="noreferrer"> <img src="https://symfony.com/logos/symfony_white_03.png" alt="symfony" width="40" height="40"/> </a>
+ <!-- DEVOPS -->
+ <a href="https://www.jenkins.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="jenkins" width="40" height="40"/> </a>
+ <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
    </p>
 </details>
